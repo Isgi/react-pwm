@@ -1,0 +1,30 @@
+{
+  "name": "react-pwm",
+  "version": "1.0.0",
+  "description": "Bootstrap React for React Native and React Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isgi/react-pwm.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "react",
+    "primitives",
+    "react",
+    "native"
+  ],
+  "author": "DWTL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isgi/react-pwm/issues"
+  },
+  "homepage": "https://github.com/Isgi/react-pwm#readme",
+  "dependencies": {
+    "react-primitives": "lelandrichardson/react-primitives#91/head"
+  }
+}

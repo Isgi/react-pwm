@@ -1,0 +1,6 @@
+# Dependency directory
+!node_modules
+
+node_modules/*
+!node_modules/react-primitives/*
+#node_modules
