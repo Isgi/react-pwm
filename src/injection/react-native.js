@@ -3,5 +3,5 @@ const ReactPrimitives = require('react-primitives');
 
 ReactPWM.inject({
   ...ReactPrimitives,
-  Button : require('../modules/Button')
+  Button : require('../modules/mobile/Button')
 });
